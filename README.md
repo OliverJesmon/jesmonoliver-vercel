@@ -3,4 +3,4 @@
 #Web framework - Create-React-App
 #Tech stack:
 -Frontend:
-<img src='logo512.png'/>
+<img src='jesmonoliver-vercel/public/logo512.png'/>
