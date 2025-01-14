@@ -16,7 +16,7 @@ function Hero() {
       <div className="absolute inset-0 bg-black opacity-50"></div>
       {/* Content */}
       <div className="relative z-10 text-center px-4">
-        <div className="text-orange-500 text-4xl md:text-5xl lg:text-6xl opacity-90">
+        <div className="text-orange-500 text-4xl md:text-5xl lg:text-6xl opacity-90 overflow-hidden">
           Howdy, I'm Oliver Jesmon D Souza
         </div>
         <p className="font-mono text-white my-2 text-lg md:text-xl lg:text-2xl">
