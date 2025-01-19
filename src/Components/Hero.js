@@ -1,6 +1,6 @@
 import React from 'react';
 import Video from '../Assets/Video.mp4';
-import Resume from '../Assets/myresume.pdf'
+import Resume from '../Assets/myresume.pdf.pdf'
 function Hero() {
   return (
     <div className="relative flex w-screen flex-col items-center justify-center h-screen text-white">
